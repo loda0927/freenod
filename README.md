@@ -8,7 +8,9 @@
 
 ## 订阅链接（支持 Clash / V2Ray / SSR 客户端）
 Clash 订阅链接：https://buyaomi.xyz/nodes/20251104-clash.yaml
+
 V2Ray/SSR 订阅链接：https://buyaomi.xyz/nodes/20251104-v2ray.txt
+
 复制上方链接粘贴到 Clash、SSR 、V2RayN 等客户端的订阅设置中，即可自动拉取最新节点。不会使用的同学可以在本站搜索相关使用教程。
 
 ## 部分节点列表
